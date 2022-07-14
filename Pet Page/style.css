@@ -1,0 +1,25 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+.Home {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Verdana';
+    display:inline-block;
+    width: auto;
+    padding: 10px, 5px, 10px, 5px;
+}
+.Diet {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Verdana';
+    display:inline-block;
+    width: auto;
+    padding: 10px, 5px, 10px, 5px;
+}
+.Habitat {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Verdana';
+    display:inline-block;
+    width: auto;
+    padding: 10px, 5px, 10px, 5px;
+}
